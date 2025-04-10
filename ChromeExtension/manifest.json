@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Site Safety Analyzer",
+    "version": "1.0",
+    "permissions": ["activeTab", "storage", "scripting"],
+    "host_permissions": ["*://*/*", "https://ssa-backend-454605.uk.r.appspot.com/"],
+    
+    "background": {
+      "service_worker": "background.js",
+      "type": "module"
+    },
+    "content_scripts": [{
+      "matches": ["*://*/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icons/lock-open-solid.png"
+    }
+  }
+  

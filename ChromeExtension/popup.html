@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Site Safety Analyzer</title>
+  <link rel="stylesheet" href="popup.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="logo">
+        <i class="fas fa-shield-alt"></i>
+        <h1>Site Safety Analyzer</h1>
+      </div>
+    </header>
+    
+    <main>
+      <div id="loading" class="loading-container">
+        <div class="spinner"></div>
+        <p>Analyzing website safety...</p>
+      </div>
+      
+      <div id="result" class="result-card" style="display: none;">
+        <!-- Will be populated by JavaScript -->
+      </div>
+      
+      <div id="alternatives" class="alternatives-container">
+        <h3 class="alternatives-title">Safer Alternatives</h3>
+        <div class="alternatives-list"></div>
+      </div>
+    </main>
+    
+    <footer>
+      <p>Powered by AI Safety Analysis</p>
+    </footer>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>

@@ -1,14 +1,12 @@
 
 # VortexWatch
 
+> **"VortexWatch: Analyze, Expose, Protect. Because your privacy shouldn’t be a gamble."**
+
+---
 <p align="center">
   <img src="./logo.png" alt="VortexWatch Logo" width="150" />
 </p>
-
-![Chrome Extension](https://img.shields.io/badge/Platform-Chrome_Extension-blue)
-![AI Powered](https://img.shields.io/badge/AI-Powered-ff69b4)
-![Built at](https://img.shields.io/badge/Hackathon-Genesis_GenAI_2025-purple)
-![Status](https://img.shields.io/badge/Status-Prototype-green)
 
 ---
 
@@ -53,17 +51,7 @@ VortexWatch is your browser’s built-in privacy detective. It does the followin
 
 ## 🎥 Demo Video
 
-https://www.youtube.com/watch?v=JniuBQaV1Qs
-
-> YouTube autoplay is not directly supported in GitHub READMEs. However, you can embed a thumbnail link that opens the video.
-
-```html
-<a href="https://www.youtube.com/watch?v=JniuBQaV1Qs" target="_blank">
-  <img src="https://www.youtube.com/watch?v=JniuBQaV1Qs" alt="Watch Demo" width="500"/>
-</a>
-```
-
-Replace `YOUR_VIDEO_ID` with your actual YouTube video ID.
+👉 [**YouTube Link**](https://www.youtube.com/watch?v=JniuBQaV1Qs)
 
 ---
 

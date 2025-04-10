@@ -2,7 +2,7 @@
 # VortexWatch
 
 <p align="center">
-  <img src="./assets/vortexwatch-logo.png" alt="VortexWatch Logo" width="150" />
+  <img src="./logo.png" alt="VortexWatch Logo" width="150" />
 </p>
 
 ![Chrome Extension](https://img.shields.io/badge/Platform-Chrome_Extension-blue)
@@ -58,8 +58,8 @@ https://www.youtube.com/watch?v=YOUR_VIDEO_ID
 > YouTube autoplay is not directly supported in GitHub READMEs. However, you can embed a thumbnail link that opens the video.
 
 ```html
-<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-  <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="Watch Demo" width="500"/>
+<a href="https://www.youtube.com/watch?v=JniuBQaV1Qs" target="_blank">
+  <img src="https://www.youtube.com/watch?v=JniuBQaV1Qs" alt="Watch Demo" width="500"/>
 </a>
 ```
 

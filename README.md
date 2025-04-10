@@ -8,7 +8,6 @@
   <img src="./logo.png" alt="VortexWatch Logo" width="150" />
 </p>
 
----
 
 ## 🌟 Inspiration
 

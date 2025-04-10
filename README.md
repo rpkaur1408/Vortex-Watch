@@ -53,7 +53,7 @@ VortexWatch is your browser’s built-in privacy detective. It does the followin
 
 ## 🎥 Demo Video
 
-https://www.youtube.com/watch?v=YOUR_VIDEO_ID
+https://www.youtube.com/watch?v=JniuBQaV1Qs
 
 > YouTube autoplay is not directly supported in GitHub READMEs. However, you can embed a thumbnail link that opens the video.
 
